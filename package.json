@@ -1,0 +1,24 @@
+{
+  "name": "note-taker2",
+  "version": "1.0.0",
+  "description": "Work with a partner to add comments that describe the functionality of the code found in [index.js](./Unsolved/index.js).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapaCode79/note-taker2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapaCode79/note-taker2/issues"
+  },
+  "homepage": "https://github.com/PapaCode79/note-taker2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
